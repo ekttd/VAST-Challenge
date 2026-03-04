@@ -1,11 +1,11 @@
 # VAST-Challenge
 
 **Задание**  
-MC2.1 – Identify those IDs that stand out for their large volumes of communication.  For each of these IDs  
-a. Characterize the communication patterns you see.  
-b. Based on these patterns, what do you hypothesize about these IDs?  
-MC2.2 – Describe up to 10 communications patterns in the data. Characterize who is communicating, with whom, when and where. If you have more than 10 patterns to report, please prioritize those patterns that are most likely to relate to the crime.  
-MC2.3 – From this data, can you hypothesize when the crime was discovered?  Describe your rationale.
+MC2.1 – Определите идентификаторы (ID), которые выделяются большими объемами коммуникации. Для каждого из этих ID:
+а. Охарактеризуйте наблюдаемые паттерны общения.
+b. Основываясь на этих паттернах, выдвиньте гипотезу о природе этих ID (что они могут из себя представлять / кому принадлежат).
+MC2.2 – Опишите до 10 паттернов коммуникации в данных. Охарактеризуйте, кто с кем общается, когда и где (геолокация). Если у вас есть более 10 паттернов, которые нужно описать, пожалуйста, в первую очередь выделите те, которые с наибольшей вероятностью могут быть связаны с преступлением.
+MC2.3 – Используя эти данные, можете ли вы выдвинуть гипотезу о том, когда было обнаружено преступление? Опишите ваше обоснование.
 
 **Описание**  
 Построение круговой диаграммы для оценки интенсивности обмена сообщениями в парке развлечений в промежутках дня длиной по 15 минут.
